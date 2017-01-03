@@ -10,7 +10,11 @@
     tools:context="com.qfxa.github1117.MainActivity">
 
     <TextView
+        android:id="@+id/test"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="35dp"
+        android:textColor="#c0c"
         android:text="Hello World!" />
 </RelativeLayout>
