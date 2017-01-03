@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         test = (TextView) findViewById(R.id.test);
-        test.setText("测试成功");
+        test.setText("测试成功上传到gitHub");
     }
 }
